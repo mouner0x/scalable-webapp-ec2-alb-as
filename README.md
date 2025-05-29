@@ -10,7 +10,7 @@ This project demonstrates the deployment of a scalable and highly available web 
 
 ## Architecture Diagram
 
-![Architecture Diagram](./architecture/architecture-diagram.png)
+![Architecture Diagram]
 
 ---
 
@@ -25,11 +25,7 @@ This project demonstrates the deployment of a scalable and highly available web 
 - `scripts/`  
   Bash scripts for setting up EC2 instances, configuring ALB, and managing Auto Scaling policies.
 
-- `docs/`  
-  Documentation and setup guides for different components:
-  - `setup-guide.md` – Step-by-step AWS setup instructions.
-  - `rds-setup.md` – Instructions for configuring Amazon RDS.
-  - `monitoring-guide.md` – How to set up CloudWatch and SNS alerts.
+
 
 ---
 
